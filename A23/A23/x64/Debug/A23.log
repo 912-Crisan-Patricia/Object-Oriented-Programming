@@ -1,0 +1,3 @@
+﻿  ui.c
+C:\Users\Patri-PC\Desktop\MATERII UBB\1\II semester\Object Oriented Programming\A23\A23\ui.c(47,8): warning C4013: 'isdigit' undefined; assuming extern returning int
+  A23.vcxproj -> C:\Users\Patri-PC\Desktop\MATERII UBB\1\II semester\Object Oriented Programming\A23\x64\Debug\A23.exe
